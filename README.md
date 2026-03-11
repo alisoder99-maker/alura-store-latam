@@ -24,7 +24,7 @@ Durante el desarrollo del proyecto se realizaron los siguientes análisis:
 - **Productos más vendidos y menos vendidos**
 - **Costo de envío promedio por tienda**
 - **Visualización de datos mediante gráficos**
-- **Análisis geográfico de ventas** *(opcional, si fue desarrollado)*
+- **Análisis geográfico de ventas**
 
 ---
 
